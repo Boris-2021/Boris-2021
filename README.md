@@ -1,7 +1,8 @@
+----
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/Boris-2021/photo_gallery/refs/heads/main/img/self_photo.jpg" align="center" style="width: 10%" />
+<img src="https://raw.githubusercontent.com/Boris-2021/photo_gallery/refs/heads/main/img/HouGe.png" align="center" style="width: 20%" />
 </div>  
-  
 
 ### <div align="center">My name is  Boris-2021, a full-time data developer and algorithm developer👨‍💻“Cow-horses” person from China🐮🐴</div>  
   
